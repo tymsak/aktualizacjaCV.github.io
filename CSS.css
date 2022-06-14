@@ -1,0 +1,19 @@
+body {
+   font-family: verdana;
+   font-size: 120%;
+  
+   background-color: rgb(209, 176, 176)
+   
+}
+h1 {
+   text-align: center;
+}
+html {
+   margin-left: 50px;
+   margin-right: 50px;
+}
+img {
+float: right;
+width: 650px;
+height: 650px;
+}
